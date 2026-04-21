@@ -46,7 +46,7 @@ It fetches leads, enriches company data, and generates **personalized 3-step ema
 ```bash
 .
 ├── API info.pdf
-├── Workflow_Video.mp4
+├── Workflow_Screenshot.png
 └── README.md
 ```
 
