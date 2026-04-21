@@ -45,8 +45,7 @@ It fetches leads, enriches company data, and generates **personalized 3-step ema
 
 ```bash
 .
-├── workflow.json   # n8n workflow export
-├── API_info.pdf
+├── API info.pdf
 ├── Workflow_Video.mp4
 └── README.md
 ```
